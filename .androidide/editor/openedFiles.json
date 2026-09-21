@@ -1,0 +1,290 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 1233,
+          "line": 47
+        },
+        "start": {
+          "column": 1,
+          "index": 1233,
+          "line": 47
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 11,
+          "index": 1042,
+          "line": 24
+        },
+        "start": {
+          "column": 11,
+          "index": 1042,
+          "line": 24
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/res/values/strings.xml",
+      "selection": {
+        "end": {
+          "column": 12,
+          "index": 69,
+          "line": 2
+        },
+        "start": {
+          "column": 12,
+          "index": 69,
+          "line": 2
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/res/values/themes.xml",
+      "selection": {
+        "end": {
+          "column": 12,
+          "index": 326,
+          "line": 6
+        },
+        "start": {
+          "column": 12,
+          "index": 326,
+          "line": 6
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/res/values/colors.xml",
+      "selection": {
+        "end": {
+          "column": 12,
+          "index": 418,
+          "line": 10
+        },
+        "start": {
+          "column": 12,
+          "index": 418,
+          "line": 10
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/java/com/example/myted/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 545,
+          "line": 18
+        },
+        "start": {
+          "column": 1,
+          "index": 545,
+          "line": 18
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/java/com/example/myted/DashboardActivity.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 1074,
+          "line": 29
+        },
+        "start": {
+          "column": 1,
+          "index": 1074,
+          "line": 29
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/java/com/example/myted/WalletManager.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 1583,
+          "line": 48
+        },
+        "start": {
+          "column": 1,
+          "index": 1583,
+          "line": 48
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/java/com/example/myted/Transaction.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 171,
+          "line": 7
+        },
+        "start": {
+          "column": 1,
+          "index": 171,
+          "line": 7
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/java/com/example/myted/TransferActivity.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 1827,
+          "line": 45
+        },
+        "start": {
+          "column": 1,
+          "index": 1827,
+          "line": 45
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/java/com/example/myted/TopUpActivity.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 1417,
+          "line": 37
+        },
+        "start": {
+          "column": 1,
+          "index": 1417,
+          "line": 37
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/java/com/example/myted/HistoryActivity.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 595,
+          "line": 16
+        },
+        "start": {
+          "column": 1,
+          "index": 595,
+          "line": 16
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/java/com/example/myted/TransactionAdapter.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 1542,
+          "line": 43
+        },
+        "start": {
+          "column": 1,
+          "index": 1542,
+          "line": 43
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/res/layout/activity_dashboard.xml",
+      "selection": {
+        "end": {
+          "column": 13,
+          "index": 3970,
+          "line": 100
+        },
+        "start": {
+          "column": 13,
+          "index": 3970,
+          "line": 100
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/res/layout/activity_splash.xml",
+      "selection": {
+        "end": {
+          "column": 15,
+          "index": 844,
+          "line": 23
+        },
+        "start": {
+          "column": 15,
+          "index": 844,
+          "line": 23
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/res/layout/activity_transfer.xml",
+      "selection": {
+        "end": {
+          "column": 15,
+          "index": 2093,
+          "line": 56
+        },
+        "start": {
+          "column": 15,
+          "index": 2093,
+          "line": 56
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/res/layout/activity_topup.xml",
+      "selection": {
+        "end": {
+          "column": 15,
+          "index": 2758,
+          "line": 73
+        },
+        "start": {
+          "column": 15,
+          "index": 2758,
+          "line": 73
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/res/layout/activity_history.xml",
+      "selection": {
+        "end": {
+          "column": 15,
+          "index": 788,
+          "line": 21
+        },
+        "start": {
+          "column": 15,
+          "index": 788,
+          "line": 21
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/res/layout/item_transaction.xml",
+      "selection": {
+        "end": {
+          "column": 36,
+          "index": 2175,
+          "line": 57
+        },
+        "start": {
+          "column": 36,
+          "index": 2175,
+          "line": 57
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Myted/app/src/main/res/layout/item_transaction.xml"
+}
